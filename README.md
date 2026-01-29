@@ -37,7 +37,7 @@ Review and Launch:
 • Review all the configurations and click "Launch".    
 Create a Key Pair (if you haven't already):     
 • You'll be prompted to create a new key pair or choose an existing one.     
-• Download the key pair (.pem file) and store it securely.    
+• Download the key pair (.pem file) and store it securely.   
 Launch the Instance:     
 • Click "Launch Instance" to start the instance creation process.    
 Connect to your Instance:    
